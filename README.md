@@ -7,10 +7,13 @@ This project focuses on performing **data analysis, visualization, and predictiv
 
 ## Dataset
 Data is derived from Northwind's relational structure including:
+- `category.csv`
 - `customers.csv`
+- `employees.csv`
 - `orders.csv`
 - `order_details.csv`
 - `products.csv`
+- `shipping.csv`
 
 ---
 
